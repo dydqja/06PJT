@@ -5,6 +5,7 @@
 <html>
 <head>
 <title>Model2 MVC Shop</title>
+sssss
 
 <link href="/css/left.css" rel="stylesheet" type="text/css">
 
